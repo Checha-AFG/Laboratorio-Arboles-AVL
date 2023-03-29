@@ -1,5 +1,7 @@
 # Laboratorio-Arboles-AVL
 
+## Me parecio el método más eficiente que hemos visto/utilizado hasta el momento
+
 Este programa utiliza una clase `AVLTree` para implementar un árbol binario AVL y proporciona los siguientes métodos públicos:
 
 - `insert(int data)` - inserta un dato en el árbol.
